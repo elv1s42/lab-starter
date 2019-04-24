@@ -33,7 +33,7 @@ steps:
     left: '%payload.pull_request.title%'
     operator: ===
                   #
-                  # - type:
+  - type: respond
                   #   option:
                   #
                   # - type:
